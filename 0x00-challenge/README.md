@@ -1,11 +1,8 @@
 # ALX - Fix My Code Challenge
------
 
-# Environment
-----
+## Environment
 - Ubuntu 14.04 LTS
 
-# Files
----
+## Files
 - 0-fizzbuzz.py
 - 1-print_square.js
