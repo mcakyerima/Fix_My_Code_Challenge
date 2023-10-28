@@ -11,29 +11,22 @@ This repository contains various coding challenges that we've successfully addre
 Here's a list of the challenges and their respective solutions:
 
 1. **Challenge 1: Delete Dnodeint**
-   - [Challenge Description](4-delete_dnodeint/README.md)
    - [Solution](4-delete_dnodeint/)
    
 2. **Challenge 2: FizzBuzz in Python**
-   - [Challenge Description](0-fizzbuzz.py)
    - [Solution](0-fizzbuzz.py)
 
 3. **Challenge 3: Print Square in JavaScript**
-   - [Challenge Description](1-print_square.js)
    - [Solution](1-print_square.js)
 
 4. **Challenge 4: Sort Integers in Ruby**
-   - [Challenge Description](2-sort.rb)
    - [Solution](2-sort.rb)
 
 5. **Challenge 5: User Class in Python**
-   - [Challenge Description](3-user.py)
    - [Solution](3-user.py)
 
-## How to Use
-
-Feel free to explore the challenges and their solutions. Each challenge folder contains a README that describes the problem, and the solution file showcases the corrected and improved code. This repository is a valuable resource for learning and practicing coding techniques.
-
+## Environment
+  - Ubuntu 14.04 LTS
 ## License
 
 This repository is open-source and available under the [MIT License](LICENSE). You can use the code and solutions as a reference for your own projects.
